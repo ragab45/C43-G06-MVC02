@@ -67,7 +67,7 @@
             //
             // Use proper configuration via appsettings.json before deployment.
             #endregion
-            #region Part 06 – Project Structure
+            #region Part 06 – Project Structure 
             // Default ASP.NET MVC structure:
             //   - Controllers → Handle HTTP requests
             //   - Models → Data + Validation logic
