@@ -40,7 +40,7 @@
             // SSL/TLS provides Encryption + Authentication + Integrity.
             #endregion
             #region Part 04 – URL & Resources
-            // URL (Uniform Resource Locator): identifies resources on the web.
+            // URL (Uniform Resource Locator): identifies resources  on the web.
             //
             // Example: https://localhost:5001/Home/Index
             //    → Controller = Home, Action = Index
