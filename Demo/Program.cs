@@ -25,9 +25,9 @@
             // 🔹 Advantages:
             //  - Separation of concerns
             //  - Reusable and testable
-            //  - Better organization for large systems
+            //  - Better organization for large systems 
             #endregion
-            #region Part 03 – HTTP Request / Response Model
+            #region Part 03 – HTTP Request / Response Model 
             // HTTP (HyperText Transfer Protocol) defines how client and server communicate.
             //
             // 🔸 Request: Sent by client (browser) -> Server
@@ -40,7 +40,7 @@
             // SSL/TLS provides Encryption + Authentication + Integrity.
             #endregion
             #region Part 04 – URL & Resources
-            // URL (Uniform Resource Locator): identifies resources on the web.
+            // URL (Uniform Resource Locator): identifies resources  on the web.
             //
             // Example: https://localhost:5001/Home/Index
             //    → Controller = Home, Action = Index
@@ -53,7 +53,7 @@
             //
             // Static Resources: CSS, JS, images stored under wwwroot/
             #endregion
-            #region Part 05 – Project Deployment
+            #region Part 05 – Project Deployment 
             // ASP.NET apps are hosted on web servers (IIS, Kestrel, or Cloud).
             //
             // 🔹 IIS (Internet Information Services):
@@ -67,7 +67,7 @@
             //
             // Use proper configuration via appsettings.json before deployment.
             #endregion
-            #region Part 06 – Project Structure
+            #region Part 06 – Project Structure 
             // Default ASP.NET MVC structure:
             //   - Controllers → Handle HTTP requests
             //   - Models → Data + Validation logic
@@ -81,7 +81,7 @@
             //
             // Repository Pattern → separates data access from business logic.
             // Dependency Injection → injects required services automatically.
-            #endregion
+            #endregion  
 
         }
     }
